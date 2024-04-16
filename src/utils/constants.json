@@ -1,0 +1,20 @@
+ {
+  "messages": {
+    "success": {
+      "200": {
+        "taskFetchedSuccessfully": "tasks fetched successfully",
+        "taskCreatedSuccessfully": "task created successfully",
+        "taskUpdatedSuccessfully": "task updated successfully",
+        "taskDeletedSuccessfully": "task deleted successfully"
+      }
+    },
+    "error": {
+      "404": {
+        "taskNotFound": "task not found"
+      },
+      "500": {
+        "somethingWentWrong": "something went wrong"
+      }
+    }
+  }
+}
